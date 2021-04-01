@@ -3,7 +3,7 @@ layout: cv
 title: Bryton Petersen's Resume
 ---
 # Bryton Petersen
-Bachelors of Computer Science - Brigham Young University - Idaho
+Bachelor's of Computer Science - Brigham Young University - Idaho
 
 <div id="webaddress">
 <a href="PUT YOUR EMAIL HERE TOO">PUT YOUR EMAIL HERE</a>
@@ -24,7 +24,7 @@ __Brigham Young University - Idaho__, Bachelors in Computer Science
 
 ## Related Experience
 
-<!-- ### Internships
+<!-- ### Internships -->
 
 ### Software Engineering
 
