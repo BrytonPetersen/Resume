@@ -19,22 +19,21 @@ __Brigham Young University - Idaho__, Bachelors in Computer Science
 ### Software Engineering Experience
 
 `January 2021 - April 2021`
-__Indie Game Designer__, Python - Team Lead
+__Indie Game Designer__, 
 
 - Set goals and made plans to help a team of aspiring software engineers learn how to use classes and methods in Python
 - Used GitHub and the pygame and arcade python libraries
 - Created a well organized, functional run, dodge and jump game
-- Purpose, tools, rewards -- every project should have the same format - make it SUPER easy to read and navigate
 
 `August 2020 - December 2020`
-__Website Designer__,
+__Website Designer__
 
 - Created a functional website for a fictional touring company
 - Utilized HTML and CSS
-- Created a functional, aesthetically pleasing website. 
+- Created a functional, aesthetically pleasing website
 
 `January 2021 - April 2021`
-__Data-Scraping__,
+__Data-Scraping__
 
 - Private project to data-scrape on-line shopping websites
 - Used Python and the BeautifulSoup / Selenium libraries
